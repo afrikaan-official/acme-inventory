@@ -1,0 +1,14 @@
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory.deps.json
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory.runtimeconfig.json
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory.runtimeconfig.dev.json
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory.dll
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory.pdb
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory-Data.dll
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\bin\Debug\netcoreapp2.2\Acme-Inventory-Data.pdb
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.csprojAssemblyReference.cache
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.csproj.CoreCompileInputs.cache
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.AssemblyInfoInputs.cache
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.AssemblyInfo.cs
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.csproj.CopyComplete
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.dll
+C:\Users\kaan.yurdakok\Desktop\Acme-Inventory\Acme-Inventory\obj\Debug\netcoreapp2.2\Acme-Inventory.pdb

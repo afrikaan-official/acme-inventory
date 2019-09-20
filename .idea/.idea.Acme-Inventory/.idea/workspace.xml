@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="113f0ca1-389b-4637-809b-103898ac0e94" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3E29540E-19B8-4967-BAD7-D7566516B71E/d4/0e36a294/SQLiteConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme-Inventory-Data/SalesRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme-Inventory/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Acme-Inventory-Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/Acme-Inventory/Acme-Inventory.csproj" />
+        <option value="$PROJECT_DIR$/Acme-Inventory-Data/SalesRepository.cs" />
+        <option value="$PROJECT_DIR$/Acme-Inventory/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="105" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollFromSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Acme-Inventory" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Acme-Inventory" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Acme-Inventory" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Acme-Inventory" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Acme-Inventory-Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Acme-Inventory/bin/Debug/netcoreapp2.2/Acme-Inventory.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Acme-Inventory" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Acme-Inventory/Acme-Inventory.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113f0ca1-389b-4637-809b-103898ac0e94" name="Default Changelist" comment="" />
+      <created>1568960534517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568960534517</updated>
+      <workItem from="1568960537068" duration="636000" />
+      <workItem from="1568973904975" duration="5095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5731000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="97" y="-8" width="1831" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32917964" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Path.GetDirectoryName(Environment.CurrentDirectory);</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bag</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Acme-Inventory.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3E29540E-19B8-4967-BAD7-D7566516B71E/d4/0e36a294/SQLiteConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="2601" column="8" selection-start-line="2601" selection-start-column="8" selection-end-line="2601" selection-end-column="8" />
+          <folding>
+            <marker date="1568975820128" expanded="true" signature="0:366" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1568975820128" expanded="false" signature="374:686" ph="..." />
+            <marker date="1568975820128" expanded="true" signature="716:214028" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="721:18094" ph="///SQLite implentation of DbConnection. ... " />
+            <marker date="1568975820128" expanded="true" signature="18173:214026" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="18596:18722" ph="/// Object used to synchronize access to the static instance data ... " />
+            <marker date="1568975820128" expanded="true" signature="18788:18985" ph="/// This object is used with lock statements to synchronize access to the ... " />
+            <marker date="1568975820128" expanded="true" signature="19144:19534" ph="/// The default wait timeout to use with &lt;see cref=&quot;M:System.Data.SQLite.SQLiteConnection.WaitForEnlistmentReset( ... " />
+            <marker date="1568975820128" expanded="true" signature="19577:19798" ph="/// The maximum number of retries when preparing SQL to be executed.  This ... " />
+            <marker date="1568975820128" expanded="true" signature="19841:20146" ph="/// The &quot;invalid value&quot; for the &lt;see cref=&quot;T:System.Data.DbType&quot; /&gt; enumeration used ... " />
+            <marker date="1568975820128" expanded="true" signature="20209:20593" ph="/// The default &quot;stub&quot; (i.e. placeholder) base schema name to use when ... " />
+            <marker date="1568975820128" expanded="true" signature="23171:23277" ph="/// The extra connection flags to be used for all opened connections. ... " />
+            <marker date="1568975820128" expanded="true" signature="23337:23561" ph="/// The &lt;see cref=&quot;T:System.Data.SQLite.SQLiteConnection&quot; /&gt; instance (for this thread) that ... " />
+            <marker date="1568975820128" expanded="true" signature="23836:23933" ph="/// Nesting level of the transactions open on the connection ... " />
+            <marker date="1568975820128" expanded="true" signature="23974:24118" ph="/// Transaction counter for the connection.  Currently, this is only used ... " />
+            <marker date="1568975820128" expanded="true" signature="24162:24451" ph="/// If this flag is non-zero, the &lt;see cref=&quot;M:System.Data.SQLite.SQLiteConnection.Dispose&quot; /&gt; method will have ... " />
+            <marker date="1568975820128" expanded="true" signature="24486:24583" ph="/// If set, then the connection is currently being disposed. ... " />
+            <marker date="1568975820128" expanded="true" signature="24751:24862" ph="/// Whether or not the connection is enlisted in a distrubuted transaction ... " />
+            <marker date="1568975820128" expanded="true" signature="24910:25113" ph="/// The per-connection mappings between type names and &lt;see cref=&quot;T:System.Data.DbType&quot; /&gt; ... " />
+            <marker date="1568975820128" expanded="true" signature="25159:25318" ph="/// The per-connection mappings between type names and optional callbacks ... " />
+            <marker date="1568975820128" expanded="true" signature="25576:25720" ph="/// The &quot;stub&quot; (i.e. placeholder) base schema name to use when returning ... " />
+            <marker date="1568975820128" expanded="true" signature="25762:25984" ph="/// The extra behavioral flags for this connection, if any.  See the ... " />
+            <marker date="1568975820128" expanded="true" signature="26031:26298" ph="/// The cached values for all settings that have been fetched on behalf ... " />
+            <marker date="1568975820128" expanded="true" signature="26359:26588" ph="/// The default databse type for this connection.  This value will only ... " />
+            <marker date="1568975820128" expanded="true" signature="26629:26863" ph="/// The default databse type name for this connection.  This value will only ... " />
+            <marker date="1568975820128" expanded="true" signature="26905:27014" ph="/// The name of the VFS to be used when opening the database connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="27048:27204" ph="/// The default busy timeout to use with the SQLite core library.  This is ... " />
+            <marker date="1568975820128" expanded="true" signature="27239:27604" ph="/// The approximate number of virtual machine instructions between progress ... " />
+            <marker date="1568975820128" expanded="true" signature="27639:27807" ph="/// Non-zero if the built-in (i.e. framework provided) connection string ... " />
+            <marker date="1568975820128" expanded="true" signature="28715:28778" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="28844:28981" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="29034:29099" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="29167:29306" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="29368:29516" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="29522:29626" ph="/// This event is raised whenever the database is opened or closed. ... " />
+            <marker date="1568975820128" expanded="true" signature="29695:29809" ph="///Default constructor ... " />
+            <marker date="1568975820128" expanded="true" signature="29867:29879" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="29885:30067" ph="/// Initializes the connection with the specified connection string. ... " />
+            <marker date="1568975820128" expanded="true" signature="30158:30170" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="30176:30916" ph="/// Initializes the connection with a pre-existing native connection handle. ... " />
+            <marker date="1568975820128" expanded="true" signature="31005:31345" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="31351:31728" ph="/// Initializes the connection with the specified connection string. ... " />
+            <marker date="1568975820128" expanded="true" signature="31805:32596" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="32602:32996" ph="/// Clones the settings and connection string from an existing connection.  If the existing connection is already ... " />
+            <marker date="1568975820128" expanded="true" signature="33125:33894" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="33284:33888" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="33366:33880" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="33550:33870" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="33627:33858" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="33900:34364" ph="/// Attempts to lookup the native handle associated with the connection.  An exception will ... " />
+            <marker date="1568975820128" expanded="true" signature="34458:35014" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="35020:35532" ph="/// Raises the &lt;see cref=&quot;E:System.Data.SQLite.SQLiteConnection.Changed&quot; /&gt; event. ... " />
+            <marker date="1568975820128" expanded="true" signature="35619:36094" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="36100:36242" ph="/// This event is raised when events related to the lifecycle of a ... " />
+            <marker date="1568975820128" expanded="true" signature="36303:36615" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="36319:36491" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="36504:36609" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="36621:36871" ph="/// This property is used to obtain or set the custom connection pool ... " />
+            <marker date="1568975820128" expanded="true" signature="36926:37102" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="36942:37015" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="37025:37096" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="37108:37830" ph="/// Creates and returns a new managed database connection handle.  This ... " />
+            <marker date="1568975820128" expanded="true" signature="37889:38611" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="37952:37968" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="37982:38135" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="38473:38562" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="38617:39735" ph="/// Backs up the database, using the specified database connection as the ... " />
+            <marker date="1568975820128" expanded="true" signature="39941:41633" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="40762:41255" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="41090:41247" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="41282:41533" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="41547:41627" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="41639:41784" ph="///Clears the per-connection cached settings. ... " />
+            <marker date="1568975820128" expanded="true" signature="41821:42035" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="41915:42011" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="42041:42732" ph="/// Queries and returns the value of the specified setting, using the ... " />
+            <marker date="1568975820128" expanded="true" signature="42818:42996" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="43002:43349" ph="/// Adds or sets the cached setting specified by &lt;paramref name=&quot;name&quot; /&gt; ... " />
+            <marker date="1568975820128" expanded="true" signature="43411:43537" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="43543:43709" ph="///Clears the per-connection type mappings. ... " />
+            <marker date="1568975820128" expanded="true" signature="43744:43896" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="43902:44079" ph="///Returns the per-connection type mappings. ... " />
+            <marker date="1568975820128" expanded="true" signature="44135:45140" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="44285:45109" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="44525:45101" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="44759:44950" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="45023:45089" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="45146:46198" ph="/// Adds a per-connection type mapping, possibly replacing one or more ... " />
+            <marker date="1568975820128" expanded="true" signature="46276:46824" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="46453:46800" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="46830:46998" ph="///Clears the per-connection type callbacks. ... " />
+            <marker date="1568975820128" expanded="true" signature="47034:47245" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="47127:47221" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="47251:47738" ph="/// Attempts to get the per-connection type callbacks for the specified ... " />
+            <marker date="1568975820128" expanded="true" signature="47826:48132" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="48138:48691" ph="/// Sets, resets, or clears the per-connection type callbacks for the ... " />
+            <marker date="1568975820128" expanded="true" signature="48772:49148" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="49154:49706" ph="/// Attempts to bind the specified &lt;see cref=&quot;T:System.Data.SQLite.SQLiteFunction&quot; /&gt; object ... " />
+            <marker date="1568975820128" expanded="true" signature="49803:50045" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="50051:51308" ph="/// Attempts to bind the specified &lt;see cref=&quot;T:System.Data.SQLite.SQLiteFunction&quot; /&gt; object ... " />
+            <marker date="1568975820128" expanded="true" signature="51439:51738" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="51744:52187" ph="/// Attempts to unbind the specified &lt;see cref=&quot;T:System.Data.SQLite.SQLiteFunction&quot; /&gt; object ... " />
+            <marker date="1568975820128" expanded="true" signature="52261:52504" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="52510:52982" ph="/// This method unbinds all registered (known) functions -OR- all previously ... " />
+            <marker date="1568975820128" expanded="true" signature="53034:53290" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="53384:54185" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="54191:55003" ph="/// Parses a connection string into component parts using the custom ... " />
+            <marker date="1568975820128" expanded="true" signature="55160:55302" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="55308:56243" ph="/// Parses a connection string into component parts using the custom ... " />
+            <marker date="1568975820128" expanded="true" signature="56434:56678" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="56745:57710" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="57822:57899" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="57933:58045" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="58051:58298" ph="/// Cleans up resources (native and managed) associated with the current instance. ... " />
+            <marker date="1568975820128" expanded="true" signature="58350:58905" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="58723:58806" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="58820:58899" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="58911:59165" ph="/// Creates a clone of the connection.  All attached databases and user-defined functions are cloned.  If the exi ... " />
+            <marker date="1568975820128" expanded="true" signature="59191:59281" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="59287:59535" ph="/// Creates a database file.  This just creates a zero-byte file which SQLite ... " />
+            <marker date="1568975820128" expanded="true" signature="59594:59651" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="59657:60102" ph="/// Raises the state change event when the state of the connection changes ... " />
+            <marker date="1568975820128" expanded="true" signature="60196:60541" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="60547:60929" ph="/// Determines and returns the fallback default isolation level when one cannot be ... " />
+            <marker date="1568975820128" expanded="true" signature="61010:61076" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="61082:61402" ph="/// Determines and returns the default isolation level for this connection instance. ... " />
+            <marker date="1568975820128" expanded="true" signature="61469:61518" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="61524:62150" ph="/// OBSOLETE.  Creates a new SQLiteTransaction if one isn't already active on the connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="62369:62567" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="62573:63128" ph="/// OBSOLETE.  Creates a new SQLiteTransaction if one isn't already active on the connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="63291:63489" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="63495:64670" ph="/// Creates a new &lt;see cref=&quot;T:System.Data.SQLite.SQLiteTransaction&quot; /&gt; if one isn't already active on the connec ... " />
+            <marker date="1568975820128" expanded="true" signature="64759:64873" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="64879:65105" ph="/// Creates a new &lt;see cref=&quot;T:System.Data.SQLite.SQLiteTransaction&quot; /&gt; if one isn't already ... " />
+            <marker date="1568975820128" expanded="true" signature="65153:65275" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="65281:65599" ph="/// Forwards to the local &lt;see cref=&quot;M:System.Data.SQLite.SQLiteConnection.BeginTransaction(System.Data.Isolation ... " />
+            <marker date="1568975820128" expanded="true" signature="65698:66836" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="66842:67068" ph="/// This method is not implemented; however, the &lt;see cref=&quot;E:System.Data.SQLite.SQLiteConnection.Changed&quot; /&gt; ... " />
+            <marker date="1568975820128" expanded="true" signature="67129:67462" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="67468:67612" ph="/// When the database connection is closed, all commands linked to this connection are automatically reset. ... " />
+            <marker date="1568975820128" expanded="true" signature="67645:69475" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="67952:69111" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="68156:68882" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="68923:69028" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="69481:69607" ph="/// Returns the number of pool entries for the file name associated with this connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="69632:69759" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="69648:69753" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="69765:70045" ph="/// Clears the connection pool associated with the connection.  Any other active connections using the same datab ... " />
+            <marker date="1568975820128" expanded="true" signature="70107:70205" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="70211:70372" ph="/// Clears all connection pools.  Any active connections will be discarded instead of sent to the pool when they  ... " />
+            <marker date="1568975820128" expanded="true" signature="70411:70467" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="70473:70763" ph="/// The connection string containing the parameters for the connection ... " />
+            <marker date="1568975820128" expanded="true" signature="71145:71530" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="71161:71246" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="71256:71524" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="71536:71771" ph="/// Create a new &lt;see cref=&quot;T:System.Data.SQLite.SQLiteCommand&quot; /&gt; and associate it with this connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="71812:71890" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="71896:72063" ph="/// Forwards to the local &lt;see cref=&quot;M:System.Data.SQLite.SQLiteConnection.CreateCommand&quot; /&gt; function. ... " />
+            <marker date="1568975820128" expanded="true" signature="72114:72173" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="72179:72597" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteSession&quot; /&gt; object instance ... " />
+            <marker date="1568975820128" expanded="true" signature="72658:72814" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="72820:73233" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteChangeSet&quot; /&gt; object instance ... " />
+            <marker date="1568975820128" expanded="true" signature="73293:73454" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="73460:73977" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteChangeSet&quot; /&gt; object instance ... " />
+            <marker date="1568975820128" expanded="true" signature="74083:74251" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="74257:74866" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteChangeSet&quot; /&gt; object instance ... " />
+            <marker date="1568975820128" expanded="true" signature="74951:75130" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="75136:75849" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteChangeSet&quot; /&gt; object instance ... " />
+            <marker date="1568975820128" expanded="true" signature="75986:76172" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="76178:76456" ph="/// Attempts to create a new &lt;see cref=&quot;T:System.Data.SQLite.ISQLiteChangeGroup&quot; /&gt; object ... " />
+            <marker date="1568975820128" expanded="true" signature="76506:76616" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="76622:76723" ph="/// Returns the data source file name without extension or path. ... " />
+            <marker date="1568975820128" expanded="true" signature="76839:76940" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="76855:76934" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="76946:77082" ph="/// Returns the fully qualified path and file name for the currently open ... " />
+            <marker date="1568975820128" expanded="true" signature="77187:77469" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="77203:77463" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="77638:77763" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="77654:77757" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="77815:78215" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="78221:78559" ph="/// Determines if the legacy connection string parser should be used. ... " />
+            <marker date="1568975820128" expanded="true" signature="78650:79274" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="79280:79848" ph="/// Parses a connection string into component parts using the custom ... " />
+            <marker date="1568975820128" expanded="true" signature="79974:80097" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="80103:80794" ph="/// Parses a connection string into component parts using the custom ... " />
+            <marker date="1568975820128" expanded="true" signature="80955:82583" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="81724:82552" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="81769:82544" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="81874:82534" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="82589:83565" ph="/// Parses a connection string using the built-in (i.e. framework provided) ... " />
+            <marker date="1568975820128" expanded="true" signature="83731:84552" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="84100:84521" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="84222:84272" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="84285:84479" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="84558:84713" ph="///Manual distributed transaction enlistment support ... " />
+            <marker date="1568975820128" expanded="true" signature="84781:86280" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="86216:86263" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="86286:87542" ph="/// &lt;b&gt;EXPERIMENTAL&lt;/b&gt; -- ... " />
+            <marker date="1568975820128" expanded="true" signature="87630:88971" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="87942:87991" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88002:88164" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88224:88915" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88308:88441" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88338:88431" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88457:88549" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88587:88877" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="88977:89440" ph="/// Looks for a key in the array of key/values of the parameter string.  If not found, return the specified defau ... " />
+            <marker date="1568975820128" expanded="true" signature="89538:89801" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="89807:90259" ph="/// Attempts to convert the string value to an enumerated value of the specified type. ... " />
+            <marker date="1568975820128" expanded="true" signature="90341:90557" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="90387:90523" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="90407:90481" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="90504:90515" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="90563:91049" ph="/// Attempts to convert an input string into a byte value. ... " />
+            <marker date="1568975820128" expanded="true" signature="91137:91227" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="91233:91517" ph="///Change a configuration option value for the database. ... " />
+            <marker date="1568975820128" expanded="true" signature="91600:92229" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="92235:92407" ph="///Enables or disables extension loading. ... " />
+            <marker date="1568975820128" expanded="true" signature="92453:92974" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="92980:93220" ph="/// Loads a SQLite extension library from the named dynamic link library file. ... " />
+            <marker date="1568975820128" expanded="true" signature="93267:93358" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="93364:93797" ph="/// Loads a SQLite extension library from the named dynamic link library file. ... " />
+            <marker date="1568975820128" expanded="true" signature="93861:94268" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="94274:94521" ph="/// Creates a disposable module containing the implementation of a virtual ... " />
+            <marker date="1568975820128" expanded="true" signature="94571:94973" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="94979:95484" ph="/// Parses a string containing a sequence of zero or more hexadecimal ... " />
+            <marker date="1568975820128" expanded="true" signature="95538:95648" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="95654:95932" ph="/// Creates and returns a string containing the hexadecimal encoded byte ... " />
+            <marker date="1568975820128" expanded="true" signature="95985:96301" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="96307:96928" ph="/// Parses a string containing a sequence of zero or more hexadecimal ... " />
+            <marker date="1568975820128" expanded="true" signature="96999:97803" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="97029:97109" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="97141:97250" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="97375:97774" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="97538:97766" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="97809:98217" ph="/// This method figures out what the default connection pool setting should ... " />
+            <marker date="1568975820128" expanded="true" signature="98254:98821" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="98301:98543" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="98554:98796" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="98827:99390" ph="/// Determines the transaction isolation level that should be used by ... " />
+            <marker date="1568975820128" expanded="true" signature="99506:100261" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="99663:100255" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="100267:100433" ph="/// Opens the connection using the parameters found in the &lt;see cref=&quot;P:System.Data.SQLite.SQLiteConnection.Conne ... " />
+            <marker date="1568975820128" expanded="true" signature="100465:116402" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="101773:102105" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="101874:102000" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="102016:102097" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="102497:102534" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="103641:104270" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="103776:104155" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="104168:104262" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="104995:105429" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="105022:105070" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="105083:105421" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="105439:116310" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="109748:116200" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="110001:114734" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="110078:114722" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="110134:110378" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="110414:110905" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="110650:110889" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="111120:111356" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="111658:111923" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="112273:112503" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="112722:112954" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="113305:113576" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="113877:114136" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="114443:114708" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="115385:115702" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="116142:116187" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="116223:116302" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="116343:116396" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="116408:116652" ph="/// Opens the connection using the parameters found in the &lt;see cref=&quot;P:System.Data.SQLite.SQLiteConnection.Conne ... " />
+            <marker date="1568975820128" expanded="true" signature="116696:116774" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="116780:117105" ph="/// Gets/sets the default command timeout for newly-created commands.  This is especially useful for ... " />
+            <marker date="1568975820128" expanded="true" signature="117135:117334" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117151:117234" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117244:117328" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117340:117506" ph="/// Gets/sets the default busy timeout to use with the SQLite core library.  This is only used when ... " />
+            <marker date="1568975820128" expanded="true" signature="117533:117726" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117549:117629" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117639:117720" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="117732:118144" ph="/// &lt;b&gt;EXPERIMENTAL&lt;/b&gt; -- ... " />
+            <marker date="1568975820128" expanded="true" signature="118171:118364" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118187:118267" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118277:118358" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118370:118591" ph="/// The maximum number of retries when preparing SQL to be executed.  This ... " />
+            <marker date="1568975820128" expanded="true" signature="118621:118820" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118637:118720" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118730:118814" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="118826:119238" ph="/// The approximate number of virtual machine instructions between progress ... " />
+            <marker date="1568975820128" expanded="true" signature="119265:119458" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119281:119361" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119371:119452" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119464:119632" ph="/// Non-zero if the built-in (i.e. framework provided) connection string ... " />
+            <marker date="1568975820128" expanded="true" signature="119666:119871" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119682:119768" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119778:119865" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="119877:120101" ph="/// Gets/sets the extra behavioral flags for this connection.  See the ... " />
+            <marker date="1568975820128" expanded="true" signature="120140:120321" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120156:120230" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120240:120315" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120327:120477" ph="/// Gets/sets the default database type for this connection.  This value ... " />
+            <marker date="1568975820128" expanded="true" signature="120510:120707" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120526:120608" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120618:120701" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120713:120868" ph="/// Gets/sets the default database type name for this connection.  This ... " />
+            <marker date="1568975820128" expanded="true" signature="120902:121103" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="120918:121002" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121012:121097" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121109:121258" ph="/// Gets/sets the VFS name for this connection.  This value will only be ... " />
+            <marker date="1568975820128" expanded="true" signature="121284:121469" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121300:121376" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121386:121463" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121475:121610" ph="/// Returns non-zero if the underlying native connection handle is ... " />
+            <marker date="1568975820128" expanded="true" signature="121636:121872" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121652:121866" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="121878:121979" ph="/// Returns the version of the underlying SQLite database engine ... " />
+            <marker date="1568975820128" expanded="true" signature="122121:122236" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="122137:122230" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="122242:122377" ph="/// Returns the rowid of the most recent successful INSERT into the database from this connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="122510:122762" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="122526:122756" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="122768:123300" ph="/// This method causes any pending database operation to abort and return at ... " />
+            <marker date="1568975820128" expanded="true" signature="123325:123522" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="123528:123688" ph="/// Returns the number of rows changed by the last INSERT, UPDATE, or DELETE statement executed on ... " />
+            <marker date="1568975820128" expanded="true" signature="123812:124056" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="123828:124050" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="124062:124596" ph="/// Checks if this connection to the specified database should be considered ... " />
+            <marker date="1568975820128" expanded="true" signature="124636:124855" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="124861:125131" ph="/// Returns non-zero if the given database connection is in autocommit mode. ... " />
+            <marker date="1568975820128" expanded="true" signature="125259:125504" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="125275:125498" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="125510:125635" ph="/// Returns the amount of memory (in bytes) currently in use by the SQLite core library. ... " />
+            <marker date="1568975820128" expanded="true" signature="125763:126004" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="125779:125998" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="126010:126172" ph="/// Returns the maximum amount of memory (in bytes) used by the SQLite core library since the high-water mark was ... " />
+            <marker date="1568975820128" expanded="true" signature="126305:126559" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="126321:126553" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="126565:127229" ph="/// Returns various global memory statistics for the SQLite core library via ... " />
+            <marker date="1568975820128" expanded="true" signature="127314:127565" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="127571:127690" ph="/// Attempts to free as much heap memory as possible for this database connection. ... " />
+            <marker date="1568975820128" expanded="true" signature="127722:128105" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="128111:129409" ph="/// Attempts to free N bytes of heap memory by deallocating non-essential memory ... " />
+            <marker date="1568975820128" expanded="true" signature="129584:129700" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="129706:130215" ph="/// Sets the status of the memory usage tracking subsystem in the SQLite core library.  By default, this is enabl ... " />
+            <marker date="1568975820128" expanded="true" signature="130277:130340" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="130346:130545" ph="/// Returns a string containing the define constants (i.e. compile-time ... " />
+            <marker date="1568975820128" expanded="true" signature="130586:130664" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="130602:130658" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="130670:130769" ph="/// Returns the version of the underlying SQLite core library. ... " />
+            <marker date="1568975820128" expanded="true" signature="130808:130884" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="130824:130878" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="130890:131091" ph="/// This method returns the string whose value is the same as the ... " />
+            <marker date="1568975820128" expanded="true" signature="131131:131208" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131147:131202" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131214:131386" ph="/// Returns a string containing the compile-time options used to ... " />
+            <marker date="1568975820128" expanded="true" signature="131432:131515" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131448:131509" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131521:131794" ph="/// This method returns the version of the interop SQLite assembly ... " />
+            <marker date="1568975820128" expanded="true" signature="131834:131911" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131850:131905" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="131917:132263" ph="/// This method returns the string whose value contains the unique ... " />
+            <marker date="1568975820128" expanded="true" signature="132304:132382" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="132320:132376" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="132388:132557" ph="/// Returns a string containing the compile-time options used to ... " />
+            <marker date="1568975820128" expanded="true" signature="132604:132688" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="132620:132682" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="132694:132958" ph="/// This method returns the version of the managed components used ... " />
+            <marker date="1568975820128" expanded="true" signature="132999:133203" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="133015:133197" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="133209:133524" ph="/// This method returns the string whose value contains the unique ... " />
+            <marker date="1568975820128" expanded="true" signature="133566:134646" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="133582:134640" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="134652:135434" ph="/// Queries and returns the value of the specified setting, using the ... " />
+            <marker date="1568975820128" expanded="true" signature="135530:135746" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="135752:136276" ph="/// Adds or sets the cached setting specified by &lt;paramref name=&quot;name&quot; /&gt; ... " />
+            <marker date="1568975820128" expanded="true" signature="136348:136510" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="136516:136683" ph="/// The default connection flags to be used for all opened connections ... " />
+            <marker date="1568975820128" expanded="true" signature="136736:137464" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="136752:137458" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="136938:137119" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="137470:137576" ph="/// The extra connection flags to be used for all opened connections. ... " />
+            <marker date="1568975820128" expanded="true" signature="137628:137873" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="137644:137750" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="137760:137867" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="138081:138187" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="138097:138181" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="138193:138488" ph="/// Passes a shutdown request to the SQLite core library.  Does not throw ... " />
+            <marker date="1568975820128" expanded="true" signature="138526:138752" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="138758:139261" ph="/// Passes a shutdown request to the SQLite core library.  Throws an ... " />
+            <marker date="1568975820128" expanded="true" signature="139325:139524" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="139646:139779" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="139889:140098" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="140216:140442" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="140577:140793" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="140916:141150" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="141156:141960" ph="/// Queries or modifies the number of retries or the retry interval (in milliseconds) for ... " />
+            <marker date="1568975820128" expanded="true" signature="142031:142830" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="142316:142696" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="142575:142688" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="142710:142794" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="142836:143137" ph="/// Sets the chunk size for the primary file associated with this database ... " />
+            <marker date="1568975820128" expanded="true" signature="143187:143686" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="143424:143582" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="143596:143680" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="143692:144232" ph="/// Removes one set of surrounding single -OR- double quotes from the string ... " />
+            <marker date="1568975820128" expanded="true" signature="144285:144562" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="144568:144875" ph="/// Determines the directory to be used when dealing with the &quot;|DataDirectory|&quot; ... " />
+            <marker date="1568975820128" expanded="true" signature="144920:145119" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="145125:145597" ph="/// Expand the filename of the data source, resolving the |DataDirectory| ... " />
+            <marker date="1568975820128" expanded="true" signature="145674:146455" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="145839:146351" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="146461:147574" ph="///Returns the MetaDataCollections schema ... " />
+            <marker date="1568975820128" expanded="true" signature="147616:147725" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="147731:147972" ph="/// Returns schema information of the specified collection ... " />
+            <marker date="1568975820128" expanded="true" signature="148035:148135" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="148141:149644" ph="/// Retrieves schema information using the specified constraint(s) for the specified collection ... " />
+            <marker date="1568975820128" expanded="true" signature="149735:151483" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="150115:151477" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="151536:152230" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="152014:152136" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="152236:152341" ph="///Builds a MetaDataCollections schema datatable ... " />
+            <marker date="1568975820128" expanded="true" signature="152399:153026" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="153032:153132" ph="///Builds a DataSourceInformation datatable ... " />
+            <marker date="1568975820128" expanded="true" signature="153185:155872" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="154981:155746" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="155878:156251" ph="///Build a Columns schema ... " />
+            <marker date="1568975820128" expanded="true" signature="156342:162239" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="158934:162145" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159026:162137" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159079:162127" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159240:162115" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159272:162028" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159534:162012" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159672:161994" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159789:161974" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="159905:161952" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="160093:161928" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="162069:162101" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="162245:162676" ph="/// Returns index information for the given database and catalog ... " />
+            <marker date="1568975820128" expanded="true" signature="162766:171037" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="164980:170943" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165072:170935" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165125:170925" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165346:170913" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165378:166273" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165645:166257" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165757:166239" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165830:166219" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="165914:166197" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="166314:166346" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="166392:167183" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="167201:170826" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="167468:170810" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="167580:170792" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="167653:170772" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="167820:170750" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="168776:169269" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="168904:169243" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="168990:169215" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="169460:170677" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="169747:170651" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="169879:170623" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="170015:170356" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="170133:170285" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="170412:170593" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="170867:170899" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="171126:173115" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="172177:173021" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="172267:173013" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="172319:173003" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="172589:172991" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="173121:173497" ph="/// Retrieves table schema information for the database and catalog ... " />
+            <marker date="1568975820128" expanded="true" signature="173585:175938" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="174687:175844" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="174777:175836" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="174829:175826" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="175290:175814" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="175944:176213" ph="///Retrieves view schema information for the database ... " />
+            <marker date="1568975820128" expanded="true" signature="176283:178608" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="177462:178514" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="177552:178506" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="177604:178496" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="177762:178484" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="178039:178470" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="178614:178844" ph="/// Retrieves catalog (attached databases) schema information for the database ... " />
+            <marker date="1568975820128" expanded="true" signature="178901:180062" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="179315:179968" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="179405:179960" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="179457:179950" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="179607:179938" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="180104:181869" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="181875:182427" ph="/// Returns the base column information for indexes in a database ... " />
+            <marker date="1568975820128" expanded="true" signature="182565:189993" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184043:189899" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184135:189891" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184188:189881" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184418:189869" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184450:185417" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184717:185401" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184829:185383" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184902:185363" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="184986:185341" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="185458:185490" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="185545:186578" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="186919:189855" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187027:189839" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187096:189821" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187306:189801" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187354:189682" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187637:189658" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187765:189632" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="187854:189604" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="189731:189779" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="189999:190450" ph="/// Returns detailed column information for a specified view ... " />
+            <marker date="1568975820128" expanded="true" signature="190563:197324" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="192952:197230" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193044:197222" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193097:197212" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193256:197200" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193514:197186" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193800:197170" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="193926:197152" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194068:197132" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194214:197110" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194342:197086" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194474:197060" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194592:197032" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="194934:197002" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="197330:197764" ph="/// Retrieves foreign key information from the specified set of filters ... " />
+            <marker date="1568975820128" expanded="true" signature="197879:202954" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="199720:202860" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="199812:202852" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="199865:202842" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200026:202830" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200058:202743" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200167:202727" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200444:202709" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200560:202689" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="200637:202667" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="202784:202816" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="202960:203440" ph="/// This event is raised periodically during long running queries.  Changing ... " />
+            <marker date="1568975820128" expanded="true" signature="203493:204191" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="203509:203859" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="203590:203811" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="203872:204185" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="204197:204725" ph="/// This event is raised whenever SQLite encounters an action covered by the ... " />
+            <marker date="1568975820128" expanded="true" signature="204781:205483" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="204797:205142" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="204880:205092" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="205155:205477" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="205489:205684" ph="/// This event is raised whenever SQLite makes an update/delete/insert into the database on ... " />
+            <marker date="1568975820128" expanded="true" signature="205733:206383" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="205749:206066" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="205828:206020" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="206079:206377" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="206456:207254" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="206472:206710" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="206737:207081" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="206757:207039" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="207062:207073" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="207484:208464" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="207500:207931" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="207958:208303" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="207978:208261" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="208284:208295" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="208595:209198" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="208611:208804" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="208831:209192" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="208851:209150" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="209173:209184" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="209204:209357" ph="/// This event is raised whenever SQLite is committing a transaction. ... " />
+            <marker date="1568975820128" expanded="true" signature="209401:210051" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="209417:209734" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="209496:209688" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="209747:210045" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="210057:210237" ph="/// This event is raised whenever SQLite statement first begins executing on ... " />
+            <marker date="1568975820128" expanded="true" signature="210284:210929" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="210300:210614" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="210378:210569" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="210627:210923" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="210993:211582" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211009:211189" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211216:211576" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211236:211534" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211557:211568" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211588:211696" ph="/// This event is raised whenever SQLite is rolling back a transaction. ... " />
+            <marker date="1568975820128" expanded="true" signature="211735:212411" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211751:212082" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="211832:212034" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="212095:212405" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="212456:213148" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="212472:212672" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="212699:213041" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="212719:212999" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213022:213033" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213196:213748" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213212:213352" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213379:213742" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213399:213700" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213714:213734" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213754:213866" ph="/// Returns the &lt;see cref=&quot;T:System.Data.SQLite.SQLiteFactory&quot; /&gt; instance. ... " />
+            <marker date="1568975820128" expanded="true" signature="213925:214022" ph="{...}" />
+            <marker date="1568975820128" expanded="true" signature="213941:214016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme-Inventory-Data/Acme-Inventory-Data.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme-Inventory/Acme-Inventory.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme-Inventory/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1568979205256" expanded="true" signature="39:706" ph="{...}" />
+            <marker date="1568979205256" expanded="true" signature="59:704" ph="{...}" />
+            <marker date="1568979205256" expanded="true" signature="105:698" ph="{...}" />
+            <marker date="1568979205256" expanded="true" signature="418:648" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme-Inventory-Data/SalesRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1568979105405" expanded="true" signature="6:39" ph="..." />
+            <marker date="1568979105405" expanded="true" signature="88:442" ph="{...}" />
+            <marker date="1568979105405" expanded="true" signature="123:440" ph="{...}" />
+            <marker date="1568979105405" expanded="true" signature="162:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
