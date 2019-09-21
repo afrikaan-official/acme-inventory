@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kaan.yurdakok\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kaan.yurdakok\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Acme-Inventory.961622752.00" t="ExcludeRecursive" />
-    <e p="C:\Users\kaan.yurdakok\Desktop\Acme-Inventory" t="IncludeFlat">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Acme-Inventory.-1490180583.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Acme-Inventory" t="IncludeRecursive">
         <e p="Acme-Inventory.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="db" t="Include">
           <e p="acme-inventory.db" t="Include" />
@@ -17,10 +18,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
       </e>
       <e p="Acme-Inventory-Data" t="IncludeRecursive">
         <e p="Acme-Inventory-Data.csproj" t="IncludeRecursive" />
+        <e p="InventoryRepository.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -29,7 +30,20 @@
             </e>
           </e>
         </e>
-        <e p="SalesRepository.cs" t="Include" />
+      </e>
+      <e p="Acme-Inventory-Entity" t="IncludeRecursive">
+        <e p="Acme-Inventory-Entity.csproj" t="IncludeRecursive" />
+        <e p="Product.cs" t="Include" />
+        <e p="SalesHistory.cs" t="Include" />
+        <e p="Store.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Acme-Inventory-Entity.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="Acme-Inventory.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

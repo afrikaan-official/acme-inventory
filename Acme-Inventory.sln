@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme-Inventory", "Acme-Inve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme-Inventory-Data", "Acme-Inventory-Data\Acme-Inventory-Data.csproj", "{AD1A3479-2807-4DD1-B14F-02C1B014A7B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme-Inventory-Entity", "Acme-Inventory-Entity\Acme-Inventory-Entity.csproj", "{61F42950-E75A-474E-BA31-E59D9FEE9E69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AD1A3479-2807-4DD1-B14F-02C1B014A7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1A3479-2807-4DD1-B14F-02C1B014A7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1A3479-2807-4DD1-B14F-02C1B014A7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F42950-E75A-474E-BA31-E59D9FEE9E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F42950-E75A-474E-BA31-E59D9FEE9E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F42950-E75A-474E-BA31-E59D9FEE9E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F42950-E75A-474E-BA31-E59D9FEE9E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -8,6 +8,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Acme-Inventory-Data\Acme-Inventory-Data.csproj" />
+      <ProjectReference Include="..\Acme-Inventory-Entity\Acme-Inventory-Entity.csproj" />
     </ItemGroup>
-
 </Project>

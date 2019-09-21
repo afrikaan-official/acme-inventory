@@ -1,22 +1,28 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\Acme-Inventory.csproj",
+    "projectUniqueName": "/home/kaan/Projects/acme-inventory/Acme-Inventory/Acme-Inventory.csproj",
     "projectName": "Acme-Inventory",
-    "projectPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\Acme-Inventory.csproj",
-    "outputPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\obj\\",
+    "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory/Acme-Inventory.csproj",
+    "outputPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj": {
-            "projectPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj"
+          "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj": {
+            "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj"
+          },
+          "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj": {
+            "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj"
           }
         }
       }

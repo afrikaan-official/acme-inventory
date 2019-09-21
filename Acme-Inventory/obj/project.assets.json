@@ -239,6 +239,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Acme-Inventory-Entity": "1.0.0",
           "System.Data.SQLite.Core": "1.0.111"
         },
         "compile": {
@@ -246,6 +247,16 @@
         },
         "runtime": {
           "bin/placeholder/Acme-Inventory-Data.dll": {}
+        }
+      },
+      "Acme-Inventory-Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Acme-Inventory-Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acme-Inventory-Entity.dll": {}
         }
       }
     }
@@ -593,12 +604,11 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -722,7 +732,7 @@
       ]
     },
     "System.Data.SQLite.Core/1.0.111": {
-      "sha512": "HfCHIp+Pyvoy81BPmH/9FTTe8HSf4A6LibGDmTT5O4NZVo6g9LitcxHEx31F20dglPhTPb1smuFc2j5CC/7uBw==",
+      "sha512": "D7Qo3JWUB6epymTVRNaAXt+Y+eh0juGjXb5q8SEp/LBdKJr6a224Mk0HCOemRsXfPIF8ULblPyCbVixUvfbpiw==",
       "type": "package",
       "path": "system.data.sqlite.core/1.0.111",
       "files": [
@@ -773,46 +783,53 @@
       "type": "project",
       "path": "../Acme-Inventory-Data/Acme-Inventory-Data.csproj",
       "msbuildProject": "../Acme-Inventory-Data/Acme-Inventory-Data.csproj"
+    },
+    "Acme-Inventory-Entity/1.0.0": {
+      "type": "project",
+      "path": "../Acme-Inventory-Entity/Acme-Inventory-Entity.csproj",
+      "msbuildProject": "../Acme-Inventory-Entity/Acme-Inventory-Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Acme-Inventory-Data >= 1.0.0",
+      "Acme-Inventory-Entity >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaan.yurdakok\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/kaan/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\Acme-Inventory.csproj",
+      "projectUniqueName": "/home/kaan/Projects/acme-inventory/Acme-Inventory/Acme-Inventory.csproj",
       "projectName": "Acme-Inventory",
-      "projectPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\Acme-Inventory.csproj",
-      "packagesPath": "C:\\Users\\kaan.yurdakok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory\\obj\\",
+      "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory/Acme-Inventory.csproj",
+      "packagesPath": "/home/kaan/.nuget/packages/",
+      "outputPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kaan.yurdakok\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/kaan/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj": {
-              "projectPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj"
+            "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj": {
+              "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj"
+            },
+            "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj": {
+              "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj"
             }
           }
         }

@@ -1,20 +1,27 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj",
+    "projectUniqueName": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj",
     "projectName": "Acme-Inventory-Data",
-    "projectPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\Acme-Inventory-Data.csproj",
-    "outputPath": "C:\\Users\\kaan.yurdakok\\Desktop\\Acme-Inventory\\Acme-Inventory-Data\\obj\\",
+    "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/Acme-Inventory-Data.csproj",
+    "outputPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Data/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj": {
+            "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

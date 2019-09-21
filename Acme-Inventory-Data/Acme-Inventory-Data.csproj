@@ -9,4 +9,8 @@
       <PackageReference Include="System.Data.SQLite.Core" Version="1.0.111" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Acme-Inventory-Entity\Acme-Inventory-Entity.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj": {}
+  },
+  "projects": {
+    "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj",
+        "projectName": "Acme-Inventory-Entity",
+        "projectPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/Acme-Inventory-Entity.csproj",
+        "packagesPath": "/home/kaan/.nuget/packages/",
+        "outputPath": "/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/kaan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

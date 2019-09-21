@@ -1,0 +1,9 @@
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/bin/Debug/netcoreapp2.2/Acme-Inventory-Entity.deps.json
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/bin/Debug/netcoreapp2.2/Acme-Inventory-Entity.dll
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/bin/Debug/netcoreapp2.2/Acme-Inventory-Entity.pdb
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.csprojAssemblyReference.cache
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.csproj.CoreCompileInputs.cache
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.AssemblyInfoInputs.cache
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.AssemblyInfo.cs
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.dll
+/home/kaan/Projects/acme-inventory/Acme-Inventory-Entity/obj/Debug/netcoreapp2.2/Acme-Inventory-Entity.pdb
